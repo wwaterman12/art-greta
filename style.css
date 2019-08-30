@@ -1522,7 +1522,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #bb9d52;
+    background: #000;
     z-index: 11000;
     position: fixed;
     display: block
