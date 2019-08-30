@@ -81,8 +81,8 @@ body.barber_version .icon-wrapper:hover i:hover{
 
 body.barber_version .grd1:hover,
 body.barber_version .grd1:focus {
-	color: #ffffff;
-    background: #bb9d52;
+    color: #000;
+    background: #fff;
 }
 
 body.barber_version .cac:hover{
