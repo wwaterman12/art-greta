@@ -473,7 +473,7 @@ body.barber_version .sidebar-nav li a.active{
 #full-width .owl-dots{
 	display: inline-block;
 	position: absolute;
-	bottom: -50%;
+	bottom: -30%;
 	width: 100%;
 	left: 0;
 	right: 0;
@@ -493,7 +493,7 @@ body.barber_version .sidebar-nav li a.active{
 }
 
 #full-width .owl-dots .owl-dot.active span {
-	background: #bb9d52;
+	background: #000;
 }
 
 

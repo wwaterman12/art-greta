@@ -119,7 +119,7 @@ body.barber_version .menuopener {
     position: absolute;
     top: 15px;
     left: 15px;
-    background-color: #bb9d52;
+    background-color: #000;
     z-index: 111;
     color: #fff !important;
     width: 50px;
