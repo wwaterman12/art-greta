@@ -29,6 +29,9 @@
     $(window).load(function() {
         $("#preloader").on(500).fadeOut();
         $(".preloader").on(600).fadeOut("slow");
+        $(".painting-group img").each(function() {
+            $(this).attr("src", $(this).attr("data-src"));
+        });
     });
 	
 	/* ==============================================
